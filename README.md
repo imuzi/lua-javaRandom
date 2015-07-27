@@ -1,4 +1,5 @@
 # lua-javaRandom
+reference: Java.Util.Random package
 
 
 
